@@ -1,6 +1,7 @@
 # Air Quality  Monitoring System
-This is IOT based Air Pollution Monitoring System which measures indoor harmful gases present in air like Carbon Dioxide(CO2) using an MQ135 gas sensor and Carbon Monoxide(CO) using an MQ7 sensor. The device would be showing the air quality in PPM(Parts Per Million) on the LCD .
-##components required
+This is IOT based Air Pollution Monitoring System which measures indoor harmful gases present in air like Carbon Dioxide(CO2) using an MQ135 gas sensor and Carbon Monoxide(CO) using an MQ7 sensor. The device would be showing the air quality in PPM(Parts Per Million) on the LCD Display provided.
+
+#components required
 * Arduino uno R3
 * 16*2 display
 * mq135 gas sensor
